@@ -1,0 +1,8 @@
+127.0.0.1 - - [10/Jul/2023:23:38:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:06 +0530] "GET /MyProject1/ HTTP/1.1" 200 2567
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:06 +0530] "GET /MyProject1/images/slid.jpg HTTP/1.1" 200 314976
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:06 +0530] "GET /MyProject1/css/style.css HTTP/1.1" 200 2884
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:06 +0530] "GET /MyProject1/images/vnm.gif HTTP/1.1" 200 23047
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:09 +0530] "GET /MyProject1/login.jsp HTTP/1.1" 200 2094
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:21 +0530] "POST /MyProject1/UserController HTTP/1.1" 200 3145
+0:0:0:0:0:0:0:1 - - [10/Jul/2023:23:38:21 +0530] "GET /MyProject1/images/logo.png HTTP/1.1" 200 19565
